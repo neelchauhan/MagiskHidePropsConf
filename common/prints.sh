@@ -66,6 +66,7 @@ Google Pixel 5 (11 & 12):Google:Pixel 5=google/redfin/redfin:11/RQ3A.211001.001/
 Google Pixel 5a (11 & 12):Google:Pixel 5a=google/barbet/barbet:11/RD2A.211001.002/7644766:user/release-keys__2021-10-01;google/barbet/barbet:12/SP1A.210812.015/7679548:user/release-keys__2021-10-05
 Google Pixel 6 (12):Google:Pixel 6=google/oriole/oriole:12/SD1A.210817.015.A4/7697517:user/release-keys__2021-10-05
 Google Pixel 6 Pro (12):Google:Pixel 6 Pro=google/raven/raven:12/SD1A.210817.015.A4/7697517:user/release-keys__2021-10-05
+Google Pixel 7 (13):Google:Pixel 7=google/panther/panther:13/TD1A.220804.031/9071314:user/release-keys__2022-10-05
 Google Pixel C (6.0.1 & 7.0 & 7.1.1 & 7.1.2 & 8.0.0 & 8.1.0):Google:Pixel C=google/ryu/dragon:6.0.1/MXC89L/3084571:user/release-keys;google/ryu/dragon:7.0/NRD91N/3318108:user/release-keys;google/ryu/dragon:7.1.1/N4F26T/3687331:user/release-keys;google/ryu/dragon:7.1.2/N2G48C/4104010:user/release-keys;google/ryu/dragon:8.0.0/OPR1.170623.032/4397478:user/release-keys;google/ryu/dragon:8.1.0/OPM8.190605.005/5749003:user/release-keys__2019-06-05
 HTC 10 (6.0.1):HTC:HTC 10=htc/HTCOneM10vzw/htc_pmewl:6.0.1/MMB29M/774095.8:user/release-keys
 HTC U11 (8.0.0):HTC:HTC U-3w=htc/ocndtwl_01405/htc_ocndtwl:8.0.0/OPR6.170623.013/1017190.2:user/release-keys
