@@ -42,7 +42,8 @@
 	#Start logging
 	echo "***************************************************" > $LOGFILE 2>&1
 	echo "********* MagiskHide Props Config $MODVERSION ********" >> $LOGFILE 2>&1
-	echo "***************** By Didgeridoohan ***************" >> $LOGFILE 2>&1
+	echo "*********** Original By Didgeridoohan *************" >> $LOGFILE 2>&1
+	echo "************** Fork By Neel Chauhan ***************" >> $LOGFILE 2>&1
 	echo "***************************************************" >> $LOGFILE 2>&1
 	echo ""
 	STRST="$(date +"%m-%d-%Y %H:%M:%S.%3N") - Log start (regular execution)."
